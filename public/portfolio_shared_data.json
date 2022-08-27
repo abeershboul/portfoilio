@@ -1,11 +1,11 @@
 {
     "basic_info": {
-      "name": "Ursula Lopez",
+      "name": "Abeer Alshboul",
       "titles": [ "Software Developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/",
           "class": "fab fa-github"
         },
         {
@@ -14,7 +14,7 @@
           "class": "fab fa-instagram"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "portfolio/photography/MYPIC.jpg"
     },
     "skills": {
       "icons": [
@@ -29,25 +29,17 @@
           "level": "95"
         },
         {
-          "name": "Angular",
+          "name": "Java",
           "class": "devicon-angularjs-plain",
-          "level": "80"
+          "level": "1"
         },
-        {
-          "name": "TypeScript",
-          "class": "devicon-typescript-plain",
-          "level": "90"
-        },
+       
         {
           "name": "JavaScript",
           "class": "devicon-javascript-plain",
           "level": "70"
         },
-        {
-          "name": "Sass",
-          "class": "devicon-sass-original",
-          "level": "75"
-        },
+       
         {
           "name": "Bootstrap",
           "class": "devicon-bootstrap-plain",

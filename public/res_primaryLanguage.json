@@ -1,7 +1,7 @@
 {
     "basic_info": {
       "description_header": "Hi",
-      "description": "👋 I'm Ursula Lopez. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Code Fellows. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+      "description": "👋 I'm Abeer ALshboul.  I'm working with webdevelpment and computer teachar. Thank you 💜",
       "section_name": {
         "about": "About me",
         "projects": "Projects",
@@ -11,14 +11,14 @@
     },
     "projects": [
       {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+        "title": "HR-management-system",
+        "startDate": "2022",
+        "description":" HR-management-system.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+        
+          "images/portfolio/photography/sys.png"
         ],
-        "url": "",
+        "url": "https://abeershboul.github.io/HR-management-system/",
         "technologies": [
           {
             "class": "devicon-angularjs-plain",
@@ -35,14 +35,14 @@
         ]
       },
       {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+        "title": "Chocolate pizza",
+        "startDate": "2022",
+        "description": "For the fig-swirl: Melt butter over medium heat in a saucepan. Add brown sugar and stir to dissolve. Halve all of the figs and toss in the saucepan with water and lemon juice. Cook over medium heat, stirring frequently, until you have a chunky-jammy mixture. Add salt with one or two stirs, set aside and let cool completely.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/pz.png",
           "images/portfolio/photography/p2.jpg"
         ],
-        "url": "https://github.com",
+        "url": "https://abeershboul.github.io/Chocolate-Pizza/",
         "technologies": [
           {
             "class": "devicon-react-original",
@@ -55,11 +55,11 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "title": "resturant",
+        "startDate": "2022",
+        "description": "One of the first apps I was working on my internship. I had to dev and css this web. This was also my first project . I've learned a lot!",
         "images": [
-          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/photography/food.png",
           "images/portfolio/adventure/p2.jpg"
         ],
         "url": "https://github.com",
@@ -81,38 +81,22 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ALZAHED SCHOOL",
+        "title": "computer Teachar",
+        "years": "10.2022 - present",
         "mainTech": [
           "Angular 8/9/10"
+       
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
+          "c++",
+          "potoshop",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "java"
+         
         ]
       }
+      
     ]
   }
